@@ -8,7 +8,7 @@ title: "Boondock"
 Москва, пл. Б. Сухаревская, 14/7\
 Состояние: закрыт навсегда
 
-![Boondock](../images/20-10-28-boondock.png)
+![Boondock](../post/images/20-10-28-boondock.png)
 https://www.restoclub.ru
 
 
