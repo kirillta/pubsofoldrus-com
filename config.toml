@@ -1,4 +1,40 @@
 baseURL = "https://master.d34850ztrjt2x3.amplifyapp.com"
-languageCode = "en-us"
+languageCode = "ru"
 title = "Пабы старой Руси"
 theme = "fuji"
+
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    isPlainText = true
+    notAlternative = true
+    mediaType = "application/json"
+    path = "/search/"
+
+[params]
+  copyrightStartYear = "2020"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.nav]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "О сайте"
+    url = "/about/"
+    weight = 2
+  [[menu.nav]]
+    name = "Поиск"
+    url = "/search/"
+    weight = 3
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 4
