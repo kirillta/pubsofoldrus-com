@@ -1,4 +1,4 @@
-baseURL = "https://master.d34850ztrjt2x3.amplifyapp.com"
+baseURL = "https://www.pubsofoldrus.com"
 languageCode = "ru"
 title = "Пабы старой Руси"
 theme = "fuji"
@@ -16,7 +16,10 @@ enableRobotsTXT = true
     path = "/search/"
 
 [params]
+  author = "Kirill Taran"
   copyrightStartYear = "2020"
+
+  googleAnalyticsTid = "G-SGMB7J7M24"
 
 [taxonomies]
   tag = "tags"
