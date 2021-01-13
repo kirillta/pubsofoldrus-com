@@ -5,9 +5,6 @@ theme = "fuji"
 
 enableRobotsTXT = true
 
-[site]
-  yandexMetrika = true
-
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
 
@@ -21,6 +18,7 @@ enableRobotsTXT = true
 [params]
   author = "Kirill Taran"
   copyrightStartYear = "2020"
+  enableTelegramWelcomeMessage = true
 
   googleAnalyticsTid = "G-SGMB7J7M24"
   yandexMetrikaId = 71173345
@@ -45,3 +43,7 @@ enableRobotsTXT = true
     name = "RSS"
     url = "/index.xml"
     weight = 4
+
+  [[menu.link]]
+    name = "Канал в Телеграме"
+    url = "https://t.me/pubsofoldrus"

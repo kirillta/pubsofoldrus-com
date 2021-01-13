@@ -15,6 +15,9 @@
         {{ .Content }}
     </div>
 </article>
+{{ if .Site.Params.enableTelegramWelcomeMessage }}
+{{ partial "telegram-welcome-message.html" . }}
+{{ end }}
 <!-- post license -->
 {{ if and (or .Site.Params.showLicense .Params.showLicense) (ne .Params.showLicense false) }}
 <div class="license markdown-body">
