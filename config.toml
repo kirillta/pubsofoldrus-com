@@ -5,6 +5,9 @@ theme = "fuji"
 
 enableRobotsTXT = true
 
+[site]
+  yandexMetrika = true
+
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
 
@@ -20,6 +23,7 @@ enableRobotsTXT = true
   copyrightStartYear = "2020"
 
   googleAnalyticsTid = "G-SGMB7J7M24"
+  yandexMetrikaId = 71173345
 
 [taxonomies]
   tag = "tags"
