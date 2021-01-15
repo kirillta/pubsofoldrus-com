@@ -5,7 +5,7 @@ title: "The Left Bank"
 ---
 
 Английский паб\
-Москва, ул. Маросейка 9/2
+Москва, Маросейка, 9/2
 
 ![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-1.png)
 ![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-1.png)

@@ -5,7 +5,7 @@ title: "Harat's Irish Pub"
 ---
 
 Ирландский паб\
-Иркутск, ул. Седова 2а
+Иркутск, Седова, 2а
 
 ![Harat's Irish Pub | https://irkutsk.harats.com/](/posts/images/2020-11-05-harats_irish_pub.png)
 

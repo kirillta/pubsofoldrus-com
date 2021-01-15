@@ -5,7 +5,7 @@ title: "The Tipsy Pub"
 ---
 
 Английский паб\
-Москва, ул. Сущёвская 9
+Москва, Сущёвская, 9
 
 ![The Tipsy Pub | https://gettable.ru/msk/tipsy-pub](/posts/images/2020-10-31-the_tipsy_pub-1.png)
 ![The Tipsy Pub | https://gettable.ru/msk/tipsy-pub](/posts/images/2020-10-31-the_tipsy_pub-2.png)

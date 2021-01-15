@@ -5,7 +5,7 @@ title: "Mycroft Pub"
 ---
 
 Английский паб\
-Великий Новгород, ул. Предтеченская, 13/6
+Великий Новгород, Предтеченская, 13/6
 
 ![Mycroft Pub | https://vk.com/kuznets0ov](/posts/images/2020-11-09-mycroft_pub.png)
 
