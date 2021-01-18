@@ -1,2 +1,8 @@
-<img class="img-zoomable" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
-<figcaption style="text-align: center; padding-bottom: 16px; font-style: italic; font-size: smaller; color: var(--color-mute);">{{ .Text }}</figcaption>
+<div style="display: flex; justify-content: center;">
+    <div>
+        <img class="img-zoomable" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+    </div>
+    <div style="writing-mode: vertical-lr; transform: rotate(-180deg);">
+        <figcaption style="text-align: center; padding-bottom: 16px; font-style: italic; font-size: smaller; color: var(--color-mute);">{{ .Text }}</figcaption>
+    </div>
+</div>
