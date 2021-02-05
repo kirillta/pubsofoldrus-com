@@ -23,6 +23,8 @@ enableRobotsTXT = true
   googleAnalyticsTid = "G-SGMB7J7M24"
   yandexMetrikaId = 71173345
 
+  showToc = false
+
 [taxonomies]
   tag = "tags"
 
