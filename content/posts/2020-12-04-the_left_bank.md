@@ -8,8 +8,8 @@ title: "The Left Bank"
 Москва, Маросейка, 9/2
 
 ![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-1.png)
-![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-1.png)
-![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-1.png)
+![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-2.png)
+![The Left Bank | http://publifegroup.ru/](/posts/images/2020-12-04-the_left_bank-3.png)
 
 
 Трёхэтажный паб в центре барной Москвы.
@@ -27,5 +27,5 @@ title: "The Left Bank"
 При значительных недостатках я считаю, что это один из лучших пабов города из-за своей отличной от других атмосферы спокойствия. Идеальное место для встреч в обед (как деловых, так и с друзьями), или завершения дня перед закрытием, а в пиковые часы можно найти место поинтереснее.
 
 
-_Guinness_ — 440р. за пинту\
-_Gordon's_ — 290р. за 40мл
+_Guinness_ — 440₽ за пинту\
+_Gordon's_ — 290₽ за 40мл
